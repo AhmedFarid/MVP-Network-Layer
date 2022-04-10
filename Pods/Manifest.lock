@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (5.0.0-rc.2)
+  - AlamofireObjectMapper (6.2.0):
+    - Alamofire (= 5.0.0-rc.2)
+    - ObjectMapper (~> 3.5.1)
+  - ObjectMapper (3.5.3)
+  - SKActivityIndicatorView (1.0.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireObjectMapper
+  - ObjectMapper
+  - SKActivityIndicatorView
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - ObjectMapper
+    - SKActivityIndicatorView
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f9450d3c7f6bea2ad62e7a541c3e9b186c7991d6
+  AlamofireObjectMapper: 74d1440c92c42bbcc2b5f4dc81654ac095ec669f
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  SKActivityIndicatorView: 81c123380127ad497f9b57cd4d11347e40ab3427
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: bfe43fe1c83a879ee2b81605d33fd2b82fccc798
+
+COCOAPODS: 1.11.2
